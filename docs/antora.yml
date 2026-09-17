@@ -1,5 +1,5 @@
-name: equivalence-engine-action
+name: tools
+title: Tools
 version: ~
-title: CI GitHub Action
 nav:
-  - modules/ROOT/nav.adoc
+- modules/equivalence-engine-action/nav.adoc
